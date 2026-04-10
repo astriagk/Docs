@@ -1,3 +1,31 @@
+# Admin Accounts - System Administration
+
+### Super Admin Account
+
+| Field    | Value                 |
+| -------- | --------------------- |
+| Name     | Gowtham               |
+| Email    | gowtham@astriagk.com  |
+| Phone    | 98765 50001           |
+| Password | SuperAdmin@123456     |
+| Region   | Bangalore             |
+| Access   | All Schools & Drivers |
+
+---
+
+### Regional Admin Account
+
+| Field    | Value                          |
+| -------- | ------------------------------ |
+| Name     | Gagan                          |
+| Email    | gagan@astriagk.com             |
+| Phone    | 98765 50002                    |
+| Password | Admin@123456                   |
+| Region   | Bangalore                      |
+| Access   | Managing All Schools in Region |
+
+---
+
 # Schools Reference - Bangalore Region
 
 | School Name            | City      | State     | Address                             | Pincode | Contact Number | Email                             | Assigned Driver        |
