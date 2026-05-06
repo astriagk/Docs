@@ -12,11 +12,11 @@
 
 - GoDaddy Email: [https://email.godaddy.com](https://email.godaddy.com)
 
-| Account | Email |
-| ------- | ----- |
-| Admin | admin@astriagk.com |
+| Account | Email                |
+| ------- | -------------------- |
+| Admin   | admin@astriagk.com   |
 | Noreply | noreply@astriagk.com |
-| Support | skolo@astriagk.com |
+| Support | skolo@astriagk.com   |
 
 ## Important DNS Warning
 
